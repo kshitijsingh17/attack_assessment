@@ -5,7 +5,7 @@ import time
 from ast import literal_eval
 
 # === Ask user for model version ===
-print("🔧 Choose Gemini model version:")
+print(" Choose Gemini model version:")
 print("1 - gemini-1.5-flash")
 print("2 - gemini-2.0-flash")
 choice = input("Enter choice (1 or 2): ").strip()
@@ -103,7 +103,7 @@ correct = 0
 results = []
 
 for i, entry in enumerate(dataset, 1):
-    print(f"🔍 [{i}/{len(dataset)}] Classifying with {MODEL_VERSION}...")
+    print(f" [{i}/{len(dataset)}] Classifying with {MODEL_VERSION}...")
 
     incident = entry["incident_text"]
     true_labels = set(entry.get("category flow", []))
