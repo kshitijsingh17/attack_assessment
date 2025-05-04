@@ -1,0 +1,654 @@
+[
+  {
+    "incident_text": "Reports indicate the use of AI-powered drones in conflict zones. In one instance, a Turkish-made Kargu-2 drone autonomously engaged a Libyan militia, while Hamas utilized drones in attacks on Israeli targets. The confluence of AI and drone technology raises concerns about security and resource diversion.",
+    "category flow": [
+      "AAT",
+      "PSI"
+    ],
+    "article_url": "https://www.jpost.com/israel-news/article-776776",
+    "llm_suggestion": [
+      "AAT",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Scammers are using deepfake technology to impersonate public figures and senior officials to promote fraudulent schemes. One such instance involves impersonating the Indian defense minister. This AI scam creates convincing fake videos, potentially leading to significant financial losses for victims who believe the deepfake.",
+    "category flow": [
+      "AAT",
+      "SPI",
+      "DCA"
+    ],
+    "article_url": "https://m.economictimes.com/wealth/save/sbi-cautions-users-against-viral-deepfake-videos-promoting-fraud/articleshow/120509714.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral",
+    "llm_suggestion": [
+      "AAT",
+      "SPI",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Novice scammers are increasingly utilizing large language models (LLMs) to generate phishing campaigns. These LLMs are being leveraged to craft convincing phishing emails and impersonate trusted entities. Some malicious actors are hacking legitimate LLM tools, while others are creating their own malicious generative AI tools to further these attacks, leading to a rise in the frequency and sophistication of phishing attempts.",
+    "category flow": [
+      "DCA",
+      "AAT",
+      "SPI"
+    ],
+    "article_url": "https://hellofuture.orange.com/en/ai-the-drive-to-combat-llm-generated-phishing-attacks/",
+    "llm_suggestion": [
+      "DCA",
+      "AAT",
+      "SPI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A Tesla engineer was attacked by a malfunctioning robot at the company's Gigafactory in Austin, Texas, in 2021. The robot reportedly pinned the engineer and dug its claws into his back and arm, leaving a trail of blood. Other workers had to press the emergency stop button to halt the robot and free the injured engineer. The incident, which resulted in serious injuries, was revealed in a recent report.",
+    "category flow": [
+      "OIA",
+      "PSI",
+      "AAT"
+    ],
+    "article_url": "https://www.dailymail.co.uk/sciencetech/article-12869629/Tesla-robot-ATTACKS-engineer-companys-Texas-factory-violent-malfunction-leaving-trail-blood-forcing-workers-hit-emergency-shutdown-button.html",
+    "llm_suggestion": [
+      "OIA",
+      "PSI",
+      "AAT"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Quantum computers, leveraging algorithms like Shor's algorithm, pose a threat to current encryption standards such as RSA2048. A sufficiently large quantum computer could potentially decrypt communications and data that are presently considered secure. This is not achieved through brute force but through targeted algorithms designed to exploit the mathematical structure of these encryption methods. The development of quantum computing capabilities necessitates the exploration and implementation of quantum-resistant cryptographic techniques to maintain data security.",
+    "category flow": [
+      "AAT",
+      "DCA"
+    ],
+    "article_url": "https://www.secureworks.com/blog/predicting-q-day-and-impact-of-breaking-rsa2048",
+    "llm_suggestion": [
+      "AAT",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "AI chatbots are increasingly used to disseminate incorrect or biased healthcare information, differing from traditional internet misinformation by providing conversational and seemingly credible responses. This poses risks to public health as users may rely on this AI-generated advice. The AMA is urging physicians to educate patients about the benefits and risks of AI in healthcare. Social media algorithms also play a role in spreading health-related misinformation.",
+    "category flow": [
+      "SPI",
+      "DCA"
+    ],
+    "article_url": "https://www.ama-assn.org/practice-management/digital-health/educate-patients-about-misleading-ai-generated-medical-advice",
+    "llm_suggestion": [
+      "SPI",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Reports indicate a biohazard leak at a highly secure Swiss research lab, raising concerns about potential pandemic risks. The lab is involved in research to combat future pandemics. Waste materials are super-heated to eliminate pathogens, and while the lab has a strong safety record, the incident highlights inherent risks in biohazard research, exacerbated by reports that Swiss scientists have recreated the coronavirus in a lab. This synthetic virus research, while intended for medical advancements, also presents bioweapon concerns.",
+    "category flow": [
+      "BPA"
+    ],
+    "article_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/inside-super-secure-swiss-lab-trying-stop-next-pandemic-2022-07-31/",
+    "llm_suggestion": [
+      "BPA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The 2014-2016 Ebola outbreak in West Africa was the largest Ebola outbreak since the virus was first discovered in 1976. Liberia registered its first case of Ebola in March 2014, and over 7,400 suspected cases were reported in the following months. Refugees in Liberia took a frontline health role when Ebola hit the country.",
+    "category flow": [
+      "BPA"
+    ],
+    "article_url": "https://www.who.int/emergencies/situations/ebola-outbreak-2014-2016-West-Africa",
+    "llm_suggestion": [
+      "BPA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "An outbreak of Guillain-Barr\u00e9 syndrome has affected over 200 people in Pune, India. Health officials have linked the outbreak to the pathogen Campylobacter jejuni, a common cause of foodborne infections. While the source is believed to be contaminated food or water, sabotage is suspected but not confirmed. The incident has raised concerns about public health and sanitation in the region.",
+    "category flow": [
+      "BPA"
+    ],
+    "article_url": "https://www.bbc.com/news/articles/c2038ggnpx7o",
+    "llm_suggestion": [
+      "BPA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "An outbreak of bird flu in Georgia, the largest chicken producer in the U.S., is expected to cause trade restrictions on U.S. poultry exports. Major meat importing countries are likely to impose bans due to the outbreak. Concerns have been raised that vaccinating poultry to combat the spread could also lead to import bans under existing trade agreements related to poultry exports.",
+    "category flow": [
+      "BPA",
+      "NDA",
+      "EFA"
+    ],
+    "article_url": "https://www.reuters.com/world/us/bird-flu-outbreak-georgia-threatens-us-chicken-exports-trade-group-says-2025-01-21/",
+    "llm_suggestion": [
+      "BPA",
+      "EFA"
+    ],
+    "notes": "The LLM omitted NDA because it likely prioritized the biological and economic effects over the natural origin of the outbreak."
+  },
+  {
+    "incident_text": "A global cyber attack affected a German rail operator, disrupting train services in Berlin. Cyber extortionists deployed ransomware, encrypting computer data and demanding ransom payments ranging from $300 to $600 for data restoration. The attack crippled systems, causing significant operational disruptions. This incident highlights the vulnerability of critical infrastructure to ransomware attacks.",
+    "category flow": [
+      "DCA",
+      "OIA"
+    ],
+    "article_url": "https://www.reuters.com/article/technology/german-rail-operator-affected-by-global-cyber-attack-idUSKBN1890DM/",
+    "llm_suggestion": [
+      "DCA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A Russian-linked hacking group infiltrated a Texas water facility in January, causing a system malfunction that forced a water tank to overflow. U.S. officials have found weak security practices at water plants, and a Russian-speaking group has claimed responsibility for related hacks that began in January and continued in recent weeks. Hacks targeting U.S. water infrastructure are increasing, including an attack on America's largest water utility.",
+    "category flow": [
+      "DCA",
+      "OIA",
+      "PSI"
+    ],
+    "article_url": "https://www.nextgov.com/cybersecurity/2024/04/russian-hackers-breached-sabotaged-texas-water-treatment-plant-cyber-firm-says/395807/",
+    "llm_suggestion": [
+      "DCA",
+      "OIA",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A major Taiwanese semiconductor manufacturer, TSMC, was targeted in a ransomware attack. The LockBit ransomware gang claimed responsibility and attempted to extort $70 million. TSMC confirmed that one of its hardware suppliers was breached and data was stolen, but stated its own systems remained unaffected. TSMC refused to pay the ransom.",
+    "category flow": [
+      "DCA",
+      "EFA"
+    ],
+    "article_url": "https://www.cnn.com/2023/06/30/tech/tsmc-supplier-ransomware",
+    "llm_suggestion": [
+      "DCA",
+      "EFA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A cyberattack on Yale New Haven Health in Connecticut resulted in malicious hackers obtaining copies of patients' personally identifiable information. The breach, which occurred in March, affected over 5 million individuals. This exposed data heightens the risk of identity theft and financial fraud for those impacted. Additional reports indicate a similar breach where hackers stole 1.6 million patient records in a separate incident, further compounding concerns about healthcare data security.",
+    "category flow": [
+      "DCA"
+    ],
+    "article_url": "https://techcrunch.com/2025/04/25/data-breach-at-connecticut-yale-new-haven-health-affects-over-5-million/",
+    "llm_suggestion": [
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A Russian hacking group, suspected to be working for the government, has been exploiting a zero-day vulnerability in Microsoft's Windows operating system. This exploit has been used to target computers used by NATO, the European Union, and Ukraine. The vulnerability, which was previously unknown, allowed the hackers to conduct a cyber espionage campaign.",
+    "category flow": [
+      "DCA",
+      "OIA"
+    ],
+    "article_url": "https://www.atlanticcouncil.org/blogs/natosource/russian-hackers-use-zero-day-to-hack-nato-ukraine-in-cyber-spy-campaign/",
+    "llm_suggestion": [
+      "DCA"
+    ],
+    "notes": "The llm overlooked the operational/industrial implications tied to targeting NATO and national infrastructure."
+  },
+  {
+    "incident_text": "A massive cryptocurrency Ponzi scheme, CBEX, has defrauded thousands of Nigerian investors of millions of dollars. The fraudulent digital asset trading platform was unregistered, and the Securities and Exchange Commission in Nigeria had warned against such schemes. In a related event, Nigerian authorities dismantled a multinational cybercrime ring and charged 53 individuals linked to Ponzi schemes, crypto fraud, and cyber-terrorism.",
+    "category flow": [
+      "DCA",
+      "EFA"
+    ],
+    "article_url": "https://cryptoslate.com/nigerian-investors-blindsided-by-massive-cbex-ponzi-scheme/",
+    "llm_suggestion": [
+      "DCA",
+      "EFA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "AI is being used to create pump-and-dump schemes where fraudsters spread false information to inflate the value of assets before selling their own holdings for profit, leaving other investors with losses. These schemes involve spreading positive but false information to increase stock prices, and are predicted to rise sharply in the coming years. The use of AI allows scammers to more effectively target and deceive potential investors.",
+    "category_flow": [
+      "DCA",
+      "EFA",
+      "SPI",
+      "AAT"
+    ],
+    "article_url": "https://medium.com/ai-frontiers/ai-driven-crypto-scams-set-to-hit-record-highs-in-2025-how-to-stay-safe-1a837a4b1b97",
+    "llm_suggestion": [
+      "DCA",
+      "EFA",
+      "SPI",
+      "AAT"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "North Korean hackers have initiated the next phase of laundering cryptocurrency stolen from the Bybit exchange. Blockchain security experts have tracked the movement of stolen ETH coins to new addresses, indicating an effort to obfuscate the funds' origin. This activity follows reports that North Korea-linked actors were responsible for a significant portion of cryptocurrency theft in 2022.",
+    "category flow": [
+      "DCA",
+      "EFA"
+    ],
+    "article_url": "https://www.trmlabs.com/resources/blog/bybit-hack-update-north-korea-moves-to-next-stage-of-laundering",
+    "llm_suggestion": [
+      "DCA",
+      "EFA",
+      "SPI"
+    ],
+    "notes": "The LLM mislabeled it as SPI due to North Korea's political ties, despite the attack being purely cyber-financial in nature."
+  },
+  {
+    "incident_text": "In February 2016, a group of hackers broke into the computer systems of Bangladesh Bank and sent fraudulent payment orders via the SWIFT network. These orders requested the transfer of nearly $1 billion from Bangladesh Bank's account at the Federal Reserve Bank of New York. While some transactions were blocked, about $81 million was successfully transferred to accounts in the Philippines, highlighting vulnerabilities in the global financial system.",
+    "category flow": [
+      "DCA",
+      "EFA"
+    ],
+    "article_url": "https://www.nytimes.com/interactive/2018/05/03/magazine/money-issue-bangladesh-billion-dollar-bank-heist.html",
+    "llm_suggestion": [
+      "DCA",
+      "EFA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Cybercriminals are increasingly using fake investment firms and unregulated crypto wallets to deceive investors and steal financial data. These schemes often operate as Ponzi schemes disguised as cryptocurrency investment platforms. Thousands of investors have been exposed to these sophisticated fraud networks, highlighting a surge in financial cybercrime.",
+    "category flow": [
+      "DCA",
+      "EFA"
+    ],
+    "article_url": "https://cyberpress.org/hackers-exploit-fraud-networks-to-steal-financial-data/",
+    "llm_suggestion": [
+      "DCA",
+      "EFA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Hurricane Francine forced evacuations in Louisiana, leading to shutdowns in oil and gas production. The hurricane is expected to bring life-threatening winds and storm surges to the Louisiana coast. Oil firms have halted offshore production in preparation for the storm. This disruption has the potential to impact oil and gas distribution.",
+    "category flow": [
+      "NDA",
+      "OIA"
+    ],
+    "article_url": "https://www.reuters.com/world/us/residents-flee-oil-firms-shut-offshore-production-storm-francine-intensifies-2024-09-10/",
+    "llm_suggestion": [
+      "NDA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A volcanic eruption in Tonga in January 2022 caused a tsunami and damaged an undersea fiber-optic telecommunication cable that connects Tonga. The eruption severed communications, leading to a five-week internet outage. Property was also damaged. This highlights the vulnerability of critical infrastructure to natural disasters.",
+    "category flow": [
+      "NDA",
+      "DCA"
+    ],
+    "article_url": "https://news.berkeley.edu/2024/05/09/submarine-communications-cables/",
+    "llm_suggestion": [
+      "NDA",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A wildfire in California's Eastern Sierra region has burned 1,000 acres, leading to mandatory evacuations in several counties, including areas where server farms are located. The proximity of the fire to Silicon Valley highlights the vulnerability of tech infrastructure to natural disasters and the potential for significant operational disruptions. While the article does not specify that server farms have been directly damaged, the evacuation orders suggest a credible threat to these facilities.",
+    "category flow": [
+      "NDA",
+      "PSI"
+    ],
+    "article_url": "https://uk.news.yahoo.com/evacuations-california-huge-wildfire-rages-084637598.html",
+    "llm_suggestion": [
+      "NDA",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A recent earthquake in Japan has caused significant disruptions to supply chains, impacting various industries and regions. FamilyMart had to temporarily close approximately 160 convenience stores in Ishikawa, Toyama, Fukui, and Niigata prefectures. The quake has reduced production in affected areas and other parts of Japan due to supply chain bottlenecks. Global supply chains are expected to suffer extensive disruption, with aftershocks to the global economy anticipated.",
+    "category flow": [
+      "NDA",
+      "OIA"
+    ],
+    "article_url": "https://asia.nikkei.com/Economy/Natural-disasters/Japan-quake-disrupts-operations-at-FamilyMart-Nippon-Steel-Toshiba",
+    "llm_suggestion": [
+      "NDA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A recent extreme heatwave in Dubai caused significant challenges for data centers, with \"feels like\" temperatures reaching 62 degree Celsius.  This extreme heat can cause data center components to overheat and fail, leading operators to shut down servers to prevent damage and potential outages.  The heatwave is impacting data center operations and infrastructure, causing disruptions. Experts are discussing how the UAE data centre industry will manage cooling requirements in light of these conditions. This highlights the vulnerability of critical infrastructure to extreme weather events.",
+    "category flow": [
+      "NDA",
+      "OIA"
+    ],
+    "article_url": "https://www.datacenterknowledge.com/outages/how-heat-waves-and-ai-challenges-are-piling-pressure-on-data-centers",
+    "llm_suggestion": [
+      "NDA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Flooding can cause significant damage to ground-level electrical substations in the Netherlands, potentially leading to widespread electricity outages. If a critical percentage of substations are flooded, the entire main station and connected substations may cease to function. Better stormwater management could help mitigate such damage from severe weather events. The attacks operate through natural environmental forces beyond human control.",
+    "category flow": [
+      "NDA",
+      "PSI"
+    ],
+    "article_url": "https://cms.deltares.nl/assets/common/downloads/Learning-on-flood-events-on-CIrcle-1.pdf",
+    "llm_suggestion": [
+      "NDA",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A series of explosions in Detroit, potentially caused by gas chemicals in canisters, have prompted investigations. First responders and witnesses reported the repeated explosions. A chemical explosion also occurred at a GM plant in Detroit a few weeks prior to this incident. The explosions have led to safety warnings and educational efforts in the Metro Detroit area.",
+    "category flow": [
+      "PSI",
+      "OIA"
+    ],
+    "article_url": "https://apnews.com/article/industrial-fire-explosions-detroit-vaping-edb421320e26873bb7cae22bfdbcb235",
+    "llm_suggestion": [
+      "PSI",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "In 1990, the FBI investigated a potential sabotage incident at a Boeing plant where over 50 wires were found severed on a jet under production. The case remains unsolved. This incident raised concerns about potential vulnerabilities within Boeing's manufacturing processes.",
+    "category flow": [
+      "OIA",
+      "PSI"
+    ],
+    "article_url": "https://www.theguardian.com/world/2001/jun/09/michaelellison",
+    "llm_suggestion": [
+      "OIA",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A flawed software update caused a global IT failure that paralyzed factory automation systems in South Korea. Hacking groups are increasingly targeting vulnerabilities in software updates to disrupt operations. The incident highlights the growing risk of cyberattacks on industrial control systems and critical infrastructure.",
+    "category flow": [
+      "DCA",
+      "OIA"
+    ],
+    "article_url": "https://m.koreaherald.com/view.php?ud=20240721050147",
+    "llm_suggestion": [
+      "DCA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A fuel pipeline rupture in Auckland caused a shortage of diesel, petrol, and jet fuel. An inquiry has suggested the government should be granted new powers to force major fuel companies to urgently invest in more infrastructure. Another pipeline rupture, this time of a natural gas pipeline in Chattogram, has caused a severe gas shortage impacting residents for the past three days due to the damaged pipeline and reduced supply from liquefied natural gas.",
+    "category flow": [
+      "PSI"
+    ],
+    "article_url": "https://www.rnz.co.nz/news/business/398917/fuel-pipeline-rupture-inquiry-tells-companies-to-invest-in-infrastructure",
+    "llm_suggestion": [
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A Bailey bridge on the Dhaka-Mymensingh Highway in Tongi, Gazipur, collapsed, causing a van to fall into the Turag River. Another bridge in Charkumaria River collapsed when a truck was crossing it, and a separate bridge collapse in Cox's Bazar has blocked the Ramu Monirjhil-Sonaichari Link Road. These collapses are causing significant suffering and disruption to transportation.",
+    "category flow": [
+      "PSI"
+    ],
+    "article_url": "https://www.dhakatribune.com/bangladesh/nation/368719/bailey-bridge-collapses-in-tongi-gmp-urges-use-of",
+    "llm_suggestion": [
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "In 2021, a major power crisis in Texas left over 4.5 million homes and businesses without power, some for days. The crisis resulted in at least 246 deaths directly or indirectly. ERCOT was forced to cut off power to prevent a complete collapse of the state's power grid. The incident occurred during a winter storm and highlighted vulnerabilities in the state's infrastructure and preparedness.",
+    "category flow": [
+      "OIA"
+    ],
+    "article_url": "https://www.texasdemocrats.org/media/media/abbotts-broken-promises-and-failure-as-governor-leads-to-potential-power-grid-collapse-as-a-winter-storm-approaches-texas",
+    "llm_suggestion": [
+      "NDA",
+      "OIA"
+    ],
+    "notes": "The LLM added NDA (Natural Disaster Attacks) because the event occurred during a severe winter storm, which is an environmental trigger."
+  },
+  {
+    "incident_text": "Several airport terminals have been evacuated recently due to bomb threats or unattended bags. One incident involved a Georgia airport terminal being evacuated as a precaution after a bomb threat was reported. Another incident occurred at Newark Airport, where a terminal was briefly shut down following a bomb threat allegedly made by a passenger at a Florida airport. Additionally, a terminal at JFK airport was evacuated after an unattended bag was found, prompting a bomb squad investigation.",
+    "category flow": [
+      "PSI",
+      "SPI"
+    ],
+    "article_url": "https://www.yahoo.com/news/georgia-airport-being-evacuated-bomb-172534988.html",
+    "llm_suggestion": [
+      "PSI",
+      "SPI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A computer network failure caused a BART train derailment and fire. The control center instructed the operator to manually drive the train after the system glitch. Also, attackers can use RF devices to send falsified emergency stop commands, remotely controlling train stops. This could allow attackers to remotely control train stops without being on the train.",
+    "category flow": [
+      "DCA",
+      "OIA"
+    ],
+    "article_url": "https://www.trains.com/trn/news-reviews/news-wire/computer-failure-led-to-bart-derailment-agency-board-told/",
+    "llm_suggestion": [
+      "DCA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "An electromagnetic pulse (EMP) event can disrupt operations at shipping ports, affecting various phases of container cargo transfer. The vulnerability lies in the potential disruption of container-handling equipment and other port operations that rely on electronic systems. Shielding equipment within a ship's structure can offer protection. ",
+    "category flow": [
+      "PSI"
+    ],
+    "article_url": "https://www.empcommission.org/docs/A2473-EMP_Commission-7MB.pdf",
+    "llm_suggestion": [
+      "AAT",
+      "PSI"
+    ],
+    "notes": "While EMPs can be advanced in origin, they are not necessarily emerging in 2025. EMPs have been studied for decades and are part of military/defense doctrine.The LLM mislabeled the attack as AAT due to keyword bias around EMP and failed to contextualize it as a conventional infrastructure disruption, better classified under PSI"
+  },
+  {
+    "incident_text": "U.S. hydropower dams are facing increased cybersecurity vulnerabilities due to a lack of federal oversight and the common use of outdated technology. Inadequate data protection measures can lead to data breaches. A federal office in charge of hydroelectric dam security only has four employees. This has prompted concerns from Congress amid growing cybersecurity risks. Such vulnerabilities could potentially allow attackers to compromise critical infrastructure.",
+    "category flow": [
+      "DCA",
+      "OIA",
+      "PSI"
+    ],
+    "article_url": "https://cyberscoop.com/dam-cybersecurity-ferc-congress/",
+    "llm_suggestion": [
+      "DCA",
+      "OIA",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Ahead of the presidential election, Brazil faces a surge in disinformation campaigns, particularly via WhatsApp. This mirrors a growing trend where digital platforms are exploited to spread misinformation, posing a threat to democratic processes. The country's vulnerability was exposed during the 2018 election. The spread of propaganda via WhatsApp, Twitter, and news media has been analyzed in connection with the Brazilian Capitol attack.",
+    "category flow": [
+      "SPI",
+      "DCA"
+    ],
+    "article_url": "https://www.nytimes.com/2018/10/19/technology/whatsapp-brazil-presidential-election.html",
+    "llm_suggestion": [
+      "SPI",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Social media platforms are being exploited to promote protests, with evidence suggesting the use of bots and AI to amplify messages. This manipulation can incite violence and unrest, as seen in multiple instances across Europe. Law enforcement agencies are monitoring social media to preemptively address potential escalations. The spread of misinformation and coordinated amplification efforts pose a significant challenge to maintaining public order during protests.",
+    "category flow": [
+      "SPI",
+      "DCA"
+    ],
+    "article_url": "https://www.theguardian.com/politics/article/2024/aug/02/how-tiktok-bots-and-ai-have-powered-a-resurgence-in-uk-far-right-violence",
+    "llm_suggestion": [
+      "SPI",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The FBI and CISA have released a public service announcement regarding potential threats to voter registration systems. Foreign actors are likely to use various tactics to spread disinformation regarding voter registration. These tactics include spreading false claims about hacked voter information, which could suppress voter turnout and undermine confidence in elections. The advisory encourages the public to seek election information from trusted sources.",
+    "category flow": [
+      "DCA",
+      "SPI"
+    ],
+    "article_url": "https://www.ic3.gov/PSA/2024/PSA241018",
+    "llm_suggestion": [
+      "DCA",
+      "SPI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A deepfake video targeting Moldova's President Sandu was created to sow discord and mistrust, aiming to undermine the nation's democratic institutions. The Moldovan government has dismissed the video as fake, emphasizing the intent to create division within society. These types of deepfake images and videos are a growing concern, as they can easily spread misinformation. Such fabricated content poses a risk to political stability and public trust.",
+    "category flow": [
+      "SPI",
+      "AAT"
+    ],
+    "article_url": "https://balkaninsight.com/2023/12/29/moldova-dismisses-deepfake-video-targeting-president-sandu/",
+    "llm_suggestion": [
+      "SPI",
+      "AAT"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The Trump administration has revoked the visas of international U.S. college students involved in campus protests, causing anxiety and detentions. Several students and faculty members have been detained by federal agents. This has led to concerns about freedom of speech and potential targeting of foreign students based on their political activities. High-profile detentions and visa revocations are putting students on edge, as Trump tightens his squeeze on US schools. The government is accused of suppressing dissent and targeting individuals based on their immigration status and political views.",
+    "category flow": [
+      "SPI"
+    ],
+    "article_url": "https://www.bbc.com/news/articles/c20xq5nd8jeo",
+    "llm_suggestion": [
+      "SPI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The article discusses instances of GPS signal manipulation, including spoofing attacks where fake signals are used to mislead GPS receivers about their location. One report suggests Russia may be testing a GPS spoofing system in the Black Sea, potentially affecting ships' navigation. Criminals and rogue employees are also using jamming devices to overpower GPS and cellphone signals.",
+    "category flow": [
+      "DCA",
+      "SPI"
+    ],
+    "article_url": "https://www.newscientist.com/article/2143499-ships-fooled-in-gps-spoofing-attack-suggest-russian-cyberweapon/",
+    "llm_suggestion": [
+      "DCA",
+      "SPI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "AI-generated deepfakes are increasingly being used to mimic real people, posing a significant threat to international diplomacy. These deepfakes can create convincing fake videos and audio, potentially leading to identity theft, fraud, and a crisis in the credibility of evidence. The rise of this technology could spark real-world conflicts, economic instability, and widespread chaos by manipulating public perception and trust in leaders and institutions. Such manipulation could trigger diplomatic incidents and escalate international tensions.",
+    "category flow": [
+      "AAT",
+      "SPI",
+      "DCA"
+    ],
+    "article_url": "https://www.linkedin.com/pulse/deepfake-diplomacy-could-entire-wars-started-leaders-saying-schagrin-fyjue",
+    "llm_suggestion": [
+      "AAT",
+      "SPI",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The banking industry faces increasing threats from cybercriminals employing advanced techniques to perpetrate fraud. Current cryptographic algorithms securing transactions may become obsolete due to quantum computing advancements, risking data confidentiality and integrity. A systematic framework is needed to assess quantum threats to blockchain platforms, as quantum computing poses risks to data security.",
+    "category flow": [
+      "DCA",
+      "AAT"
+    ],
+    "article_url": "https://www.sisainfosec.com/executive-perspective/navigating-compliance-in-the-quantum-computing-era/",
+    "llm_suggestion": [
+      "DCA",
+      "AAT"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The article discusses the increasing use of 3D-printed firearms by extremists and terrorists, highlighting instances where law enforcement agencies have encountered these weapons. The analysis points out that 3D-printed guns, particularly FGCs, require minimal actual firearm components, and even the fire control group can be 3D-printed. One specific instance involved police discovering 19 3D-printed pistol frames, melee weapons, and explosive precursors along with far-right documents.",
+    "category flow": [
+      "AAT",
+      "PSI"
+    ],
+    "article_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10998078/",
+    "llm_suggestion": [
+      "AAT",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A cyberattack targeted irrigation systems in Israel, reportedly as part of an annual \"hacktivist\" campaign. The attack temporarily disabled farm equipment. Such attacks on smart farming infrastructure, like irrigation systems, enable attackers to remotely control and exploit on-field sensors. This can lead to complete or partial shutdown of automated systems, irrigation, and production facilities, crippling productivity for extended periods.",
+    "category flow": [
+      "DCA",
+      "OIA"
+    ],
+    "article_url": "https://www.cpomagazine.com/cyber-security/irrigation-systems-in-israel-hit-with-cyber-attack-that-temporarily-disabled-farm-equipment/",
+    "llm_suggestion": [
+      "DCA",
+      "OIA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "The spread of disinformation regarding climate change involves narratives denying its existence, causes, or severity. One example includes the \"World Climate Declaration,\" shared in June, asserting \"no climate emergency,\" despite scientific consensus. This declaration was promoted by individuals, including an Australian Senator, aiming to undermine climate action. Such disinformation can lead to public confusion and impede effective responses to genuine environmental threats, even influencing emergency alerts and policy decisions.",
+    "category flow": [
+      "SPI",
+      "DCA"
+    ],
+    "article_url": "https://edmo.eu/publications/disinformation-about-climate-change-main-narratives-in-june-at-the-european-level/",
+    "llm_suggestion": [
+      "SPI",
+      "DCA"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "Concerns are growing about foreign influence in U.S. schools, specifically regarding the potential promotion of propaganda. Several countries, including China and Saudi Arabia, are suspected of attempting to influence American public schools. This influence poses a national security risk, raising questions about the integrity of the educational content and the values being imparted to students.",
+    "category flow": [
+      "SPI"
+    ],
+    "article_url": "https://wpde.com/news/nation-world/foreign-influence-on-us-schools-could-be-promoting-propaganda-quatar-arabic-schools-education-k-through-12",
+    "llm_suggestion": [
+      "SPI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A NATO ally successfully used an 'invisible' weapon to neutralize drone swarms. Swarming tactics involve overwhelming a target's defenses by deploying numerous drones simultaneously. Drone pilots are still adapting to this type of coordinated assault. The specific weapon used and the location of the event were not disclosed in the article.",
+    "category flow": [
+      "AAT",
+      "PSI"
+    ],
+    "article_url": "https://www.msn.com/en-us/news/world/nato-ally-s-invisible-weapon-takes-down-drone-swarms-for-first-time/ar-AA1D438i?cvid=4A00B5478F084262BFE1391E164D74CC&ocid=superappdhp",
+    "llm_suggestion": [
+      "AAT",
+      "PSI"
+    ],
+    "notes": null
+  },
+  {
+    "incident_text": "A finance worker at a multinational firm in Hong Kong was tricked into paying out $25 million to fraudsters. The attackers used deepfake technology to impersonate the company's CFO during a video call. The employee was instructed to make several secret transactions, ultimately resulting in the substantial financial loss. This incident highlights the increasing sophistication and potential impact of AI-enabled fraud.",
+    "category flow": [
+      "AAT",
+      "EFA",
+      "DCA"
+    ],
+    "article_url": "https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk",
+    "llm_suggestion": [
+      "AAT",
+      "EFA",
+      "DCA",
+      "SPI"
+    ],
+    "notes": "In this case, the intent was financial fraud, not manipulation of public opinion or social dynamics"
+  }
+]
