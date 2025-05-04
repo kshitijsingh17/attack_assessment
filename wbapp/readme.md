@@ -6,7 +6,7 @@ A Streamlit web app for classifying attack incident reports using Gemini 1.5 or 
 ##  Features
 
 -  API key input for Gemini models
--  Upload labeled datasets (`.json`/`.csv`)
+-  Upload labeled datasets (`.json`)
 -  Evaluate predictions vs ground truth (correct, missed, extra)
 -  Visualize category performance
 -  Test custom incident descriptions live
@@ -36,7 +36,7 @@ Input custom incident text and get real-time category predictions.
 - Session state management for continuity
 - Progress bars and alerts for user actions
 
-## 🏁 Run the App
+##  Run the App
 
 ```bash
 pip install -r requirements.txt
