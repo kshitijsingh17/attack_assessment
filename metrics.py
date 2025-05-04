@@ -45,6 +45,6 @@ metrics["Macro F1 Score"] = round(f1_macro, 3)
 metrics["Hamming Loss"] = round(hamming, 3)
 
 # === Print summary ===
-print("📊 Multi-Label Classification Evaluation Metrics\n")
+print(" Multi-Label Classification Evaluation Metrics\n")
 for k, v in metrics.items():
     print(f"{k}: {v}")
